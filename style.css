@@ -1,0 +1,22 @@
+header{
+
+}
+main{
+    margin-left: 100px;
+}
+b{
+    color: yellow;
+}
+h1{
+    text-align: center;
+    color: #fff;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.bax{
+    display: flex;
+   flex-wrap: wrap;
+   gap: 60px;
+}
